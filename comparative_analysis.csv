@@ -1,0 +1,13 @@
+Model,No text,NLP
+CatBoost,,
+ExtraTrees-Entr,,
+ExtraTrees-Gini,,
+KNN-Dist,,
+KNN-Unif,,
+LightGBM,,
+LightGBM-Large,,
+LightGBM-XT,,
+RForest-Ent,,
+RForest-Gini,,
+XGBoost,,
+Ensemble,,
