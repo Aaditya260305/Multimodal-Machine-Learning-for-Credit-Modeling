@@ -1,4 +1,4 @@
-# Multimodal-Machine-Learning-for-Credit-Modeling
+# Multimodal-Machine-Learning-for-Credit -Modeling
 
 Credit ratings are traditionally generated using
 models that use financial statement data and market data, which
