@@ -1,6 +1,6 @@
 # Multimodal Machine Learning for Credit Modeling
 
-This repository implements a multimodal machine learning approach for credit rating prediction, combining traditional financial data with textual analysis of SEC filings. The project replicates and extends the methodology from the paper on multimodal machine learning for credit modeling.
+This repository implements a multimodal machine learning approach for credit rating prediction, combining traditional financial data with textual analysis of SEC filing. The project replicates and extends the methodology from the paper on multimodal machine learning for credit modeling.
 
 ## 📋 Table of Contents
 - [Overview](#overview)
